@@ -1,0 +1,4 @@
+name: poteznyEmeraldPlugin
+version: '1.0-SNAPSHOT'
+main: pl.tripmc.poteznyemeraldplugin.PoteznyEmeraldPlugin
+api-version: '1.19'
